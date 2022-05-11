@@ -1,12 +1,13 @@
-<h1 align="center">¡Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Nicole Perez!</h1>
+<h1 align="center">¡Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Niqui!</h1>
 <br>
-``` js
-const niqui = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node]
-}
-``` 
+<p> Hello, my name is Nicole Perez and I am a Systems Engineering student at the National Technological University in Buenos Aires, Argentina. </p>
+<br>
+<p align="start">● 😃 I'm always willing to give my best, I'm open to learn new things all the time. </b></p>
+<p align="start">● 👐I am a self-taught person, I watched hours and hours of videos to learn everything I know so far. </b></p>
+<p align="start">● 🌱I'm currently learning ReactJS. </b></p>
+<p align="start">● 👨‍💻 All of my projects are available at <a href="https://github.com/NiquiSteffi?tab=repositories" target="_blank">Repositories.</a></p>
+<p align="start">● 🎮Love video games, series and movies. </b></p>
+  
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center"> 
