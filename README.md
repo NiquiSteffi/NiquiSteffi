@@ -1,14 +1,19 @@
-<h1 align="center">¡Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Niqui!</h1>
+<h1 align="center">¡Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Nicole Perez!</h1>
 <br>
-<p> Hello, my name is Nicole Perez and I am a Systems Engineering student at the National Technological University in Buenos Aires, Argentina. </p>
+<h2 align="center"><img src="https://media2.giphy.com/media/ll6k0B10kGNQEn6KsO/giphy.gif?cid=790b76118958d382d2e5922ab5977270b01c6812df3ff800&rid=giphy.gif&ct=s" width="30px">Frontend Developer<img src="https://media2.giphy.com/media/ll6k0B10kGNQEn6KsO/giphy.gif?cid=790b76118958d382d2e5922ab5977270b01c6812df3ff800&rid=giphy.gif&ct=s" width="30px"></h2>
+<p>I'm a Systems Engineering student at the National Technological University in Buenos Aires, Argentina. </p>
 <br>
-<p align="start">● 😃 I'm always willing to give my best, I'm open to learn new things all the time. </b></p>
 <p align="start">● 👐I am a self-taught person, I watched hours and hours of videos to learn everything I know so far. </b></p>
+<p align="start">● 😃 I'm always willing to give my best and I'm open to learn new things all the time. </b></p>
 <p align="start">● 🌱I'm currently learning ReactJS. </b></p>
 <p align="start">● 👨‍💻 All of my projects are available at <a href="https://github.com/NiquiSteffi?tab=repositories" target="_blank">Repositories.</a></p>
-<p align="start">● 🎮Love video games, series and movies. </b></p>
-  
-<h3 align="center">Languages and Tools</h3>
+<p align="start">● 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</b></p>
+<p align="start">● ⚡ Fun fact: Love video games, series and movies.  </b></p>
+<br>
+
+---
+
+<h3 align="center">✨Languages and Tools✨</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -36,7 +41,10 @@
     <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="VSC" width="30">
   </a>
 <p align="center">
- 
+  <br>
+  
+  ---
+  
  <h3 align="center">✨ Where you can find me ✨</h3>
  
  <p align="center">
