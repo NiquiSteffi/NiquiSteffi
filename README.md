@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi  I'm Nicole Perez!</h1>
+<h1 align="center">¡Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Nicole Perez!</h1>
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/ll6k0B10kGNQEn6KsO/giphy.gif?cid=790b76118958d382d2e5922ab5977270b01c6812df3ff800&rid=giphy.gif&ct=s" width="20px">Frontend Developer<img src="https://media2.giphy.com/media/ll6k0B10kGNQEn6KsO/giphy.gif?cid=790b76118958d382d2e5922ab5977270b01c6812df3ff800&rid=giphy.gif&ct=s" width="20px"></h2>
 <p align="start">● 📖 I'm a Systems Engineering student at the National Technological University in Buenos Aires, Argentina. </b></p>
